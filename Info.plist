@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Bookmark</string>
+		<string>BookmarkItem</string>
+		<string>History</string>
+		<string>HistoryItem</string>
+		<string>Main</string>
+		<string>Global</string>
+		<string>Test</string>
+		<string>Comm</string>
+		<string>MainArea</string>
+		<string>HtmlParse</string>
+		<string>Menu</string>
+		<string>MenuItem</string>
+		<string>MessageBox</string>
+		<string>ScrollBar</string>
+		<string>Ttouch</string>
+		<string>WebSource</string>
+		<string>WebSourceArray</string>
+		<string>WebImageArray</string>
+		<string>Tag</string>
+		<string>Item</string>
+		<string>ItemPlainText</string>
+		<string>ItemLinkText</string>
+		<string>ItemInputBox</string>
+		<string>ItemLinkImage</string>
+		<string>WebImage</string>
+		<string>ItemImageBox</string>
+		<string>Ring</string>
+		<string>String</string>
+		<string>TextBox</string>
+		<string>TextButton</string>
+		<string>Frame</string>
+		<string>TestClass</string>
+		<string>WScrollBar</string>
+	</array>
+	<key>Created</key>
+	<string>2012-06-15 09:56:17 +0000</string>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
