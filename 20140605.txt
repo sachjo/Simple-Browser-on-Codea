@@ -391,7 +391,7 @@ https://gtldresult.icann.org/application-result/applicationstatus
 http://www.nikkei.com/article/DGXNASDG0804S_Z00C14A7CR0000/?n_cid=TPRN0009
 
 >「サイバー犯罪はいかなる形であれ、中国の国内法で禁じられている。中国政府はそうした活動の撲滅に手を尽くしてきた」
-疑问
+疑?
 >「掲載された情報は、サイバースペースでの脅威に警鐘を鳴らし続けていたクラウドストライクにとっての宣伝のようにも思える。彼らの事業に役立つものだと推測できる」
 宣伝・広告？
 http://jp.reuters.com/article/worldNews/idJPKBN0FE04B20140709
@@ -407,3 +407,12 @@ http://jp.wsj.com/news/articles/JJ12247850768612033927917977100271990833956?tesl
 >中国を封じ込める意図はなく、平和的な台頭を歓迎する
 懐柔案
 http://sankei.jp.msn.com/world/news/140709/chn14070914260002-n1.htm
+-------------------------------------------------------------
+http://windows.github.com/
+GitHub.appref-ms
+http://github-windows.s3.amazonaws.com/GitHub.application#GitHub.application
+C:\Users\<UserName>\AppData\Local\GitHub\PortableGit_<40digits>\etc\gitconfig
+[http]
+	proxy = <proxy server>:<port>
+
+失敗⇒削除⇒Discard Changes(⇒Sync?)
