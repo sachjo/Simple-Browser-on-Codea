@@ -416,3 +416,5 @@ C:\Users\<UserName>\AppData\Local\GitHub\PortableGit_<40digits>\etc\gitconfig
 	proxy = <proxy server>:<port>
 
 失敗⇒削除⇒Discard Changes(⇒Sync?)
+Uncommitted changes
+Summary入力⇒Commit to master⇒Sync
