@@ -1976,3 +1976,53 @@ http://www.huffingtonpost.jp/2014/09/18/isis-video-purportedly-shows-another-jou
 
 http://news.mynavi.jp/news/2014/09/24/325/?google_editors_picks=true
 
+
+9/25
+
+http://japan.cnet.com/news/service/35054234/
+
+http://builder.japan.zdnet.com/extra/iot2014/35044320/?tag=crcol;TUspecial
+
+sed s/\\\$\{receiver\}/\\\@driver/g
+
+目が怖い
+
+http://news.mynavi.jp/news/2014/09/25/140/
+
+これ良いじゃん！
+歯ブラシ BlueTooth IoT ライフログ 子ども 虫歯 習慣 お菓子 糖分 人工甘味料 フッ素化合物
+
+http://oralb.braun.co.jp/products/oral/black/top.html
+
+短命 というか 幻のバージョン
+ゲット出来なかった！くやしい
+
+http://k-tai.impress.co.jp/docs/news/20140925_668426.html
+
+FC2 動画 違法 アップロード 地上波 NHK 「生活のため」 米国に拠点 警視庁 20130601-20140531
+
+http://www.asahi.com/articles/ASG9T3CWYG9TUTIL007.html
+
+Uターンテロの阻止
+
+http://www.asahi.com/articles/ASG9T2CSFG9TUHBI005.html
+
+日本には和食があるから
+
+http://www.tokyo-np.co.jp/s/article/2014092501001129.html
+
+実行するには周りの協力がないといけない
+
+http://www.yomiuri.co.jp/politics/20140925-OYT1T50064.html
+
+
+> 東欧諸国に不安が広がっている
+
+昔から、勝負事をするときに、
+相手の手札がすべてわかってたら楽勝じゃん！って思っていたんですけど
+
+そう簡単にはいかないんでしょうか
+ビッグデータをもっと活用してほしいですよねー
+
+http://www.asahi.com/articles/ASG9T03N6G9SUHBI03Z.html
+
